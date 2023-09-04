@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GPT4Tools
+Exec=/home/websinthe/code/AI_Tool_GUI/guienv/local/bin/python3.10 /home/websinthe/code/AI_Tool_GUI/AIMethodsApp/src/AIMethodApp/ai_ui.py
+Icon=/home/websinthe/code/AI_Tool_GUI/AIMethodsApp/src/AIMethodApp/icon/aiuiicon.png
+Type=Application
+Categories=Utility;
